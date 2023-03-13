@@ -2,4 +2,4 @@
 "trzecia linijka"
 "czwarta z konsolki"
 "piąta w nowym branchu"
-
+"szósta w branchu test2"
